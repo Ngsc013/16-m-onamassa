@@ -57,6 +57,9 @@ table{
     table-layout: fixed;
 
 }
+}
+
+header h1{
 
 td, th {
 	padding: .7em;
